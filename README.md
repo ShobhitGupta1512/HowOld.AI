@@ -10,6 +10,9 @@ The app uses a **Keras deep learning model** for predictions and **OpenCV Haar C
 👉 [Try it here](https://howold.streamlit.app)  
 
 ---
+<img width="1347" height="679" alt="image" src="https://github.com/user-attachments/assets/e013af77-c819-490d-a6b8-fc64cf177493" />
+This is the user interface of the **Age and Gender Prediction App** after loading the model successfully.
+
 
 ## ✨ Features  
 ✔️ Upload an image or use live camera input  
@@ -29,3 +32,5 @@ project-folder/
 ├── app.py                # Streamlit app (main file)
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation
+
+
